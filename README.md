@@ -1,6 +1,6 @@
 # admin-lte-setup
 
-1. Put this file to the following directory:
+1. Download & put this file to the following directory:
 "app/Console/Commands/"
 2. Create database
 3. Put the database name in .env file
