@@ -1,8 +1,9 @@
 # admin-lte-setup
 
-1. Download & put this file to the following directory:
+1. Install Laravel
+2. Download & put this file to the following directory:
 "app/Console/Commands/"
-2. Create database
-3. Put the database name in .env file
-4. Run the following command from your terminal:
+3. Create database
+4. Put the database name in .env file
+5. Run the following command from your terminal:
    "php artisan setup:adminlte"
